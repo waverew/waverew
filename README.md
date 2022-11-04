@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div>
+  <img src="https://i.kym-cdn.com/photos/images/original/000/705/188/7c7.gif">  
+</div>
 <!--
 **waverew/waverew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
