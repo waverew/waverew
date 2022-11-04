@@ -29,7 +29,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord-readme-badge.vercel.app/api?id=hex#4883">
+  <a href="https://dcbadge.vercel.app/api/shield/hex:4883">
     <img src="https://camo.githubusercontent.com/673cd3a24fdf6d2d8756b36454770c9e6f853a4e0b972a1c2003ac3041635424/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d626c75653f7374796c653d666f722d7468652d6261646765">
     </a>
   <h4>Feel free to reach out!</h4>
