@@ -25,7 +25,7 @@
 
 <br>
 <div align="left">
-  <h3>You can contact me here</h3>
+  <h3>You can contact with me here</h3>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
