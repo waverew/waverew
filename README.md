@@ -26,7 +26,7 @@
 <br>
 <div align="left">
   <h3>You can contact with me here</h3>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dmderikoshma/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
