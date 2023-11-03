@@ -3,7 +3,7 @@
 </h1>
 <br>
 <div align="center">
-  <img src="https://thumbs.gfycat.com/AromaticDecimalHoneybadger-size_restricted.gif" align="right" width="40%">
+  <img src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif" align="right" width="40%">
 </div>
   <h1 align="left" font-size="24px">
    <b>About me</b> 
