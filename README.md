@@ -26,7 +26,7 @@
 <br>
 <div align="left">
   <h3>You can contact me on telegram</h3>
-  <h1>+88 0621 1337</h1>
+  <h1>+888 0621 1337</h1>
   </a>
   
   <h4>Feel free to reach out!</h4>
