@@ -20,7 +20,7 @@
 <b>Hobbys:</b> Developing software, building cool things from scratch
 </li>
 <li>
-  <b>Working on:</b> Hyperledger Mosaique
+  <b>Working on:</b> just working(
 </li>
 
 <br>
