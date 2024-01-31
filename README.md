@@ -25,9 +25,8 @@
 
 <br>
 <div align="left">
-  <h3>You can contact me here</h3>
-  <a href="https://www.linkedin.com/in/dmderikoshma/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <h3>You can contact me on telegram</h3>
+  <h1>+88 0621 1337</h1>
   </a>
   
   <h4>Feel free to reach out!</h4>
