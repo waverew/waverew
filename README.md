@@ -1,7 +1,6 @@
 <h1 align="center" font-size="24px">
   ✨ <b>Welcome to my profile</b> ✨
 </h1>
-<br>
 <div align="center">
   <img src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif" align="right" width="40%">
 </div>
@@ -23,7 +22,6 @@
   <b>Working on:</b> just working(
 </li>
 
-<br>
 <div align="left">
   <h3>You can contact me on telegram</h3>
   <h1>+888 0621 1337</h1>
