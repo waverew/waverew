@@ -1,13 +1,16 @@
-<h1 align="center" font-size="24px">
-  ✨ <b>Welcome to my profile</b> ✨
-</h1>
+<div align="center" font-size="48px">
+  
+ <h3>✨ <b>Welcome to my profile</b> ✨</h3>
+</div>
+<br>
 <div align="center">
   <img src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif" align="right" width="40%">
 </div>
-  <h1 align="left" font-size="24px">
-   <b>About me</b> 
-</h1>
-  <li>
+  <div align="left" font-size="48px">
+   <h3><b>About me</b></h3> 
+  </div>
+  <br>
+<li>
  <b>Name:</b> Dima</li>
 <li>
 <b>Age:</b> I've seen things you people wouldn't believe. Attack ships on fire etc.
@@ -24,8 +27,7 @@
 
 <div align="left">
   <h3>You can contact me on telegram</h3>
-  <h1>+888 0621 1337</h1>
-  </a>
+  <h3>+888 0621 1337</h3>
   
   <h4>Feel free to reach out!</h4>
   </div>
