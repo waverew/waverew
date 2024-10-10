@@ -27,7 +27,7 @@
 
 <div align="left">
   <h3>You can contact me on telegram</h3>
-  <h3>+888 0621 1337</h3>
+  <h3>@cryptodmitrii</h3>
   
   <h4>Feel free to reach out!</h4>
   </div>
